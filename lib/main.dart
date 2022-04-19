@@ -300,7 +300,6 @@ class MyApp extends StatelessWidget {
                             Row(
                               children: [
                                 Stack(
-                                  
                                   children: [
                                     Padding(
                                       padding:
@@ -321,7 +320,6 @@ class MyApp extends StatelessWidget {
                                         ),
                                         height: 50,
                                         width: 250,
-                                        
                                       ),
                                     ),
                                     Padding(
@@ -411,16 +409,16 @@ class MyApp extends StatelessWidget {
                                                       ),
                                                     ),
                                                     Positioned(
-                                      left: 97.0,
-                                      bottom: 10.0,
-                                      child: Text(
-                                        "+919555445308",
-                                        style: TextStyle(
-                                          fontSize: 12.0,
-                                          color: Colors.white70,
-                                        ),
-                                      ),
-                                    ),
+                                                      left: 97.0,
+                                                      bottom: 10.0,
+                                                      child: Text(
+                                                        "+919555445308",
+                                                        style: TextStyle(
+                                                          fontSize: 12.0,
+                                                          color: Colors.white70,
+                                                        ),
+                                                      ),
+                                                    ),
                                                   ],
                                                 ),
                                               ],
